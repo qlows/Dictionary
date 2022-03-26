@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  *
  * @author UMIT KILINC 101232721
- * @author RAVKEERAT SINGH 
+ * @author RAVKEERAT SINGH 101344680
  */
 public class Assignment2 {
 
